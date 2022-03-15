@@ -3,6 +3,7 @@
 import os
 import sys
 
+#fake update
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'newspaper_project.settings')
